@@ -29,10 +29,6 @@ Each dataset has 2 features → 2 qubits.
   - SVC with `kernel='precomputed'` on that quantum kernel
   - Trained on a small subset (e.g. 25 train / 10 test) to keep kernel construction feasible
 
-## Results
-
-(After running the notebook, paste the table here.)
-
 ## How to run
 
 ```bash
