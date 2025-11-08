@@ -1,0 +1,6 @@
+qiskit
+qiskit-machine-learning
+scikit-learn
+matplotlib
+pandas
+jupyter
